@@ -1,3 +1,5 @@
-const texto = "Olá mundo!"
+const texto1 = "Olá mundo!"
+const texto2 = "Hello World!"
 
-console.log(texto);
+console.log(texto1);
+console.log(texto2);
